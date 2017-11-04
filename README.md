@@ -1,4 +1,4 @@
-# Git Fix Um
+# Git Fix
 
 On undoing, fixing, or removing commits in git
 
